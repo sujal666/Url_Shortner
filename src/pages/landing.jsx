@@ -50,7 +50,7 @@ const LandingPage = () => {
           <AccordionContent>
             When you enter a long URL, our system generates a shorter version of
             that URL. This shortened URL redirects to the original long URL when
-            accessed.
+            accessed. This is very easy and usefull Tool
           </AccordionContent>
         </AccordionItem>
         <AccordionItem value="item-2">
